@@ -12,6 +12,7 @@ Funcionalidades Básicas Implementadas:
 Modelo Azul:
 
 ![Alt text](src/img/screen1.png?raw=true "Layout Blue")
+
 Modelo Vermelho:
 
 ![Alt text](src/img/screen2.png?raw=true "Layout Red")
